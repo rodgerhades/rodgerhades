@@ -1,8 +1,5 @@
 ### Olá! Eu sou o Rodger Cabrerisso
 
-- 🔭 Hoje trabalho com Front-end
-- 🌱 Estudando Javascript
-- 😄 Pronomes: dele/ele
 
 <div align="center">
   <a href="https://github.com/rodgerhades">
