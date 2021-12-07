@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com Front-end
 - 🌱 Estudando Javascript
-- 😄 Pronouns: dele/ele
+- 😄 Pronomes: dele/ele
 
 <div align="center">
   <a href="https://github.com/rodgerhades">
