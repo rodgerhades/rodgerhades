@@ -1,3 +1,4 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=831700&height=120&section=header"/>
 
 [![typing SVG](https://readme-typing-svg.herokuapp.com/?color=c1bbc7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Rodger+Cabrerisso;I'm+31+years+old;I'm+from+Brazil;I'm+studying+System+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
@@ -20,13 +21,20 @@
  </div>
 
  ### Main skills:
-<div style="display: inline_block"><br>
 
+ <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">HTML
+ <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">CSS
+
+
+### Tools:
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />VSCODE
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />GITHUB       
+<img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" />WINDOWS
+                              
 
 ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+<img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">PYTHON
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
